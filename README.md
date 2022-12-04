@@ -9,4 +9,6 @@ Once you have your .h5 model, it takes (1,187) points of dataset that represent 
 
 How to implement this .h5 model is shown in imp.jpynb file.
 
-Plot hheart gives you the way you can calculate and plot heart rate
+Plothheart.jpynb gives you the way you can calculate and plot heart rate
+
+ekgdata.c is the arduino code to get the data
