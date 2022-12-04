@@ -8,3 +8,5 @@ This files uses the dataset obtained from the kaggle
 Once you have your .h5 model, it takes (1,187) points of dataset that represent youtr heartbeat.
 
 How to implement this .h5 model is shown in imp.jpynb file.
+
+Plot hheart gives you the way you can calculate and plot heart rate
